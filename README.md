@@ -1,4 +1,2 @@
-# 2021_Image_caption
-An Implementation of image captioning framework
-
-See the pdf document for more details
+# Simple Image Caption Model
+See the pdf document for more details.
